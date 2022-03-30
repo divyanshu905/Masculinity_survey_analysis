@@ -4,4 +4,4 @@
 
 • Used Python, Matplotlib, Seaborn & Pandas to conduct in detailed EDA.
 
-<img src="./images/Screenshot%20(427).png width="600" height="400">
+<img src="./images/Screenshot%20(427).png" width="600" height="400">
